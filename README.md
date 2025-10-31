@@ -1,10 +1,8 @@
 # salesforecasting_dss_simulation
 Sales Forecasting using Moving Average and Trendline
 
-=================================================================
-          DECISION SUPPORT SYSTEM: SALES FORECASTING
-=================================================================
-
+    DECISION SUPPORT SYSTEM: SALES FORECASTING
+    
 1. INPUT DATA TABLE
 ----------------------------------------------------
 | Month | Sales_Revenue |
