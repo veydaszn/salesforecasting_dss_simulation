@@ -1,5 +1,6 @@
 # salesforecasting_dss_simulation
 Sales Forecasting using Moving Average and Trendline
+
 =================================================================
           DECISION SUPPORT SYSTEM: SALES FORECASTING
 =================================================================
@@ -32,5 +33,4 @@ Recommendation: INCREASE inventory and marketing budget.
 - Processing: Moving average + regression
 - Output: Forecast + actionable recommendation
 - Visualization: Chart saved as 'dss_sales_forecast.png'
-
 =================================================================
